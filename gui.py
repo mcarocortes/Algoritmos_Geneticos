@@ -1,5 +1,5 @@
 '''
-Aplicación TKinter para gestión de menúss
+Aplicación TKinter para gestión de menús
 '''
 
 import tkinter as tk
