@@ -1,5 +1,4 @@
 # Algoritmos Genéticos
----
 ## Encontrar el Menú Óptimo con Algoritmos Genéticos
 En este proyecto desarrollaremos un algoritmo genético para crear menús de restaurante que cumplan una serie de restricciones. El proyecto tiene la siguiente estructura de archivos:
 
